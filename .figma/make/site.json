@@ -1,0 +1,10 @@
+{
+  "description": "Creates a mobile-responsive, animated birthday landing page with personalized images, romantic messages, background music, and a secret password-protected love note.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
